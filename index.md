@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-
-<!-- Home Page for ME -->
-
 <html>
 
 <head>
