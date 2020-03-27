@@ -73,19 +73,19 @@ body {
 
 #infoTab5
 {
-    height: 260px;
+    height: 275px;
     width: 800px;
     background-color: white;
     position: relative;
     top: 10px;
     color: black;
     border-radius: 10px;
-    
+    left: 10%;
 }
 
 #infoTab6
 {
-    height: 250px;
+    height: 275px;
     width: 800px;
     background-color: white;
     position: relative;
